@@ -5,16 +5,16 @@
   .mobile-header {
     display: block;
     height: 45px;
-    color: #fff;
+    color: #bdd1d2;
     text-align: right;
-    background-color: color-default;
+    background-color: #263645;
     padding: 5px 10px;
   }
   .mobile-header .title {
     font-size: 32px;
     line-height: 32px;
     vertical-align: middle;
-    color: #fff;
+    color: #263645;
   }
   .mobile-header .title:hover {
     color: color-link-sidebar;
