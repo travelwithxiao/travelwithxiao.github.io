@@ -1,11 +1,13 @@
 .article .article-header {
   margin-bottom: 10px;
+  font-size: xx-large;
+  color: #367275;
 }
 .article .article-header a {
-  color: #30634c;
+  color: #367275;
 }
 .article .article-header a:hover {
-  color: #388151;
+  color: #20323e;
 }
 .article .article-info {
   font-size: 14px;
